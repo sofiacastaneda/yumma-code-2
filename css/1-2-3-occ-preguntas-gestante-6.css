@@ -1,0 +1,285 @@
+/* screen - 1-2-3-occ-preguntas-gestante-6 */
+
+.x1-2-3-occ-preguntas-gestante-6 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .overlap-group {
+  height: 1296px;
+  margin-left: -432px;
+  margin-top: -314.0px;
+  position: relative;
+  width: 1205px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .ellipse-195 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 204px;
+  width: 568px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .ellipse-195-1 {
+  height: 970px;
+  left: 235px;
+  position: absolute;
+  top: 0;
+  width: 970px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .ellipse-196 {
+  height: 536px;
+  left: 180px;
+  position: absolute;
+  top: 562px;
+  width: 520px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .ellipse-197 {
+  height: 631px;
+  left: 626px;
+  position: absolute;
+  top: 665px;
+  width: 534px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .progress-bar {
+  align-items: flex-start;
+  background-color: var(--mystic-2);
+  border-radius: 4px;
+  display: flex;
+  height: 7px;
+  left: 473px;
+  overflow: hidden;
+  position: absolute;
+  top: 631px;
+  transform: rotate(-1.57deg);
+  width: 549px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .rectangle-1 {
+  background-color: var(--blue-ribbon);
+  border-radius: 8px;
+  height: 7px;
+  margin-left: -1px;
+  width: 274px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item {
+  align-items: center;
+  background-color: var(--mystic);
+  border-radius: 11.09px;
+  display: flex;
+  gap: 15px;
+  height: 52px;
+  justify-content: flex-end;
+  left: 504px;
+  min-width: 84px;
+  padding: 0 14.8px;
+  position: absolute;
+  top: 420px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .title {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 1.85px;
+  min-height: 19px;
+  text-align: center;
+  white-space: nowrap;
+  width: 17px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .checkbox {
+  align-items: flex-end;
+  background-color: var(--blue-ribbon);
+  border-radius: 5.55px;
+  display: flex;
+  height: 22px;
+  justify-content: flex-end;
+  min-width: 22px;
+  padding: 5.5px 5.5px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .check {
+  height: 11px;
+  width: 11px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-1 {
+  background-color: var(--white);
+  height: 51px;
+  left: 606px;
+  min-width: 88px;
+  position: absolute;
+  top: 421px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .title-1 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 1.85px;
+  min-height: 19px;
+  text-align: center;
+  white-space: nowrap;
+  width: 21px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .checkbox-1 {
+  border-radius: 5.55px;
+  height: 22px;
+  width: 22px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-2 {
+  background-color: var(--mystic);
+  height: 52px;
+  left: 504px;
+  min-width: 84px;
+  position: absolute;
+  top: 526px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-3 {
+  background-color: var(--white);
+  height: 51px;
+  left: 606px;
+  min-width: 88px;
+  position: absolute;
+  top: 525px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-4 {
+  background-color: var(--mystic);
+  height: 52px;
+  left: 504px;
+  min-width: 84px;
+  position: absolute;
+  top: 634px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-5 {
+  background-color: var(--white);
+  height: 51px;
+  left: 606px;
+  min-width: 88px;
+  position: absolute;
+  top: 633px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-6 {
+  background-color: var(--mystic);
+  height: 52px;
+  left: 504px;
+  min-width: 84px;
+  position: absolute;
+  top: 741px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-7 {
+  background-color: var(--white);
+  height: 51px;
+  left: 608px;
+  min-width: 88px;
+  position: absolute;
+  top: 741px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .group-71 {
+  border-radius: 11.09px;
+  gap: 17px;
+  height: 52px;
+  left: 504px;
+  min-width: 189px;
+  top: 849px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .list-item-8 {
+  background-color: var(--mystic);
+  height: 52px;
+  min-width: 84px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .group-75 {
+  background-color: var(--white);
+  border-radius: 29px;
+  flex-direction: column;
+  gap: 4px;
+  left: 449px;
+  min-height: 87px;
+  padding: 16.0px 27px;
+  top: 280px;
+  width: 96px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .rectangle-173 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  margin-top: 30px;
+  width: 41px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .se-ha-sentido-bien-la-gestante {
+  left: 494px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 387px;
+  width: 218px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .ha-tenido-algn-dolor-la-gestante {
+  left: 484px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 496px;
+  width: 247px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .tiene-dolor-de-cabeza-la-gestante {
+  left: 487px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 711px;
+  width: 237px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .duerme-mucho-la-gestante {
+  left: 489px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 605px;
+  width: 214px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .le-arde-al-orinar-a-la-gestante {
+  left: 491px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 819px;
+  width: 216px;
+}
+
+.x1-2-3-occ-preguntas-gestante-6 .group {
+  align-items: flex-start;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  position: absolute;
+}

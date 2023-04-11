@@ -1,0 +1,183 @@
+/* screen - 6-2-menu-datos-desglosados */
+
+.x6-2-menu-datos-desglosados {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x6-2-menu-datos-desglosados .overlap-group1 {
+  height: 1262px;
+  margin-left: -274px;
+  margin-top: -451px;
+  position: relative;
+  width: 977px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-178 {
+  height: 873px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 885px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-179 {
+  height: 536px;
+  left: 90px;
+  position: absolute;
+  top: 461px;
+  width: 520px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-180 {
+  height: 485px;
+  left: 108px;
+  position: absolute;
+  top: 777px;
+  width: 568px;
+}
+
+.x6-2-menu-datos-desglosados .ellipse-181 {
+  height: 631px;
+  left: 443px;
+  position: absolute;
+  top: 521px;
+  width: 534px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-172 {
+  background-color: var(--white);
+  border-radius: 29px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 87px;
+  left: 296px;
+  position: absolute;
+  top: 418px;
+  width: 96px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-173 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  left: 323px;
+  position: absolute;
+  top: 464px;
+  width: 41px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-174 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  left: 323px;
+  position: absolute;
+  top: 474px;
+  width: 41px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-175 {
+  background-color: var(--black);
+  border-radius: 14.71px;
+  height: 6px;
+  left: 323px;
+  position: absolute;
+  top: 483px;
+  width: 41px;
+}
+
+.x6-2-menu-datos-desglosados .button-primary {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 9.72px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 32px;
+  left: 431px;
+  overflow: hidden;
+  padding: 1.5px 12px;
+  position: absolute;
+  top: 1037px;
+  width: 45px;
+}
+
+.x6-2-menu-datos-desglosados .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 27px;
+}
+
+.x6-2-menu-datos-desglosados .seleccione-el-tipo-d {
+  left: 353px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 593px;
+  width: 195px;
+}
+
+.x6-2-menu-datos-desglosados .group-71 {
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 358px;
+  position: absolute;
+  top: 729px;
+  width: 189px;
+}
+
+.x6-2-menu-datos-desglosados .actividades {
+  left: 386px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 738px;
+  width: 123px;
+}
+
+.x6-2-menu-datos-desglosados .overlap-group {
+  height: 47px;
+  left: 356px;
+  position: absolute;
+  top: 854px;
+  width: 194px;
+}
+
+.x6-2-menu-datos-desglosados .rectangle-115 {
+  background-color: var(--white);
+  border-radius: 8.5px;
+  box-shadow: 0px 4px 4px #00000040;
+  height: 47px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 189px;
+}
+
+.x6-2-menu-datos-desglosados .alertas-de-riesgo {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 194px;
+}
+
+.x6-2-menu-datos-desglosados .canalizaciones {
+  left: 366px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 800px;
+  width: 171px;
+}

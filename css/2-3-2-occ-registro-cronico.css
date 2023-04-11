@@ -1,0 +1,228 @@
+/* screen - 2-3-2-occ-registro-cronico */
+
+.x2-3-2-occ-registro-cronico {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  height: 640px;
+  overflow: hidden;
+  width: 360px;
+}
+
+.x2-3-2-occ-registro-cronico .overlap-group {
+  height: 1452px;
+  margin-left: -306px;
+  margin-top: -242px;
+  position: relative;
+  width: 1121px;
+}
+
+.x2-3-2-occ-registro-cronico .ellipse-184 {
+  height: 566px;
+  left: 338px;
+  position: absolute;
+  top: 195px;
+  width: 398px;
+}
+
+.x2-3-2-occ-registro-cronico .ellipse-182 {
+  height: 538px;
+  left: 173px;
+  position: absolute;
+  top: 403px;
+  width: 354px;
+}
+
+.x2-3-2-occ-registro-cronico .ellipse-183 {
+  height: 970px;
+  left: 153px;
+  position: absolute;
+  top: 482px;
+  width: 968px;
+}
+
+.x2-3-2-occ-registro-cronico .ellipse-185 {
+  height: 485px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 568px;
+}
+
+.x2-3-2-occ-registro-cronico .button-primary {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 9.72px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 32px;
+  left: 422px;
+  overflow: hidden;
+  padding: 6.5px 34px;
+  position: absolute;
+  top: 816px;
+  width: 122px;
+}
+
+.x2-3-2-occ-registro-cronico .button {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 17px;
+}
+
+.x2-3-2-occ-registro-cronico .dropdown-native-off {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0px 1px 6px 2px #00000033;
+  display: flex;
+  height: 22px;
+  left: 465px;
+  overflow: hidden;
+  padding: 0 6px;
+  position: absolute;
+  top: 289px;
+  width: 166px;
+}
+
+.x2-3-2-occ-registro-cronico .title {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.x2-3-2-occ-registro-cronico .dropdown-native-off-1 {
+  top: 436px;
+}
+
+.x2-3-2-occ-registro-cronico .dropdown-native-off-2 {
+  top: 531px;
+}
+
+.x2-3-2-occ-registro-cronico .dropdown-native-off-3 {
+  top: 482px;
+}
+
+.x2-3-2-occ-registro-cronico .dropdown-native-off-4 {
+  top: 581px;
+}
+
+.x2-3-2-occ-registro-cronico .dropdown-native-off-6 {
+  top: 761px;
+}
+
+.x2-3-2-occ-registro-cronico .qu-tipo-de-ayuda-recibe {
+  left: 338px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 755px;
+  width: 98px;
+}
+
+.x2-3-2-occ-registro-cronico .list-item {
+  align-items: center;
+  background-color: #e2edff;
+  border-radius: 8.71px;
+  display: flex;
+  gap: 12px;
+  height: 41px;
+  justify-content: flex-end;
+  left: 335px;
+  min-width: 62px;
+  padding: 0 11.6px;
+  position: absolute;
+  top: 355px;
+}
+
+.x2-3-2-occ-registro-cronico .title-2 {
+  width: 10px;
+}
+
+.x2-3-2-occ-registro-cronico .checkbox {
+  align-items: flex-end;
+  background-color: var(--blue-ribbon);
+  border-radius: 4.35px;
+  display: flex;
+  height: 17px;
+  min-width: 17px;
+  padding: 4.4px 4.4px;
+}
+
+.x2-3-2-occ-registro-cronico .check {
+  height: 9px;
+  width: 9px;
+}
+
+.x2-3-2-occ-registro-cronico .list-item-1 {
+  background-color: var(--white);
+  left: 404px;
+  min-width: 71px;
+  top: 356px;
+}
+
+.x2-3-2-occ-registro-cronico .title-1 {
+  width: 19px;
+}
+
+.x2-3-2-occ-registro-cronico .checkbox-1 {
+  border-radius: 4.35px;
+  height: 17px;
+  width: 17px;
+}
+
+.x2-3-2-occ-registro-cronico .list-item-2 {
+  background-color: var(--white);
+  left: 481px;
+  min-width: 71px;
+  top: 355px;
+}
+
+.x2-3-2-occ-registro-cronico .list-item-3 {
+  background-color: var(--white);
+  left: 560px;
+  min-width: 71px;
+  top: 355px;
+}
+
+.x2-3-2-occ-registro-cronico .list-item-4 {
+  background-color: #dfebff;
+  box-shadow: 0px 4px 4px #00000040;
+  left: 465px;
+  min-width: 68px;
+  top: 631px;
+}
+
+.x2-3-2-occ-registro-cronico .title-3 {
+  width: 16px;
+}
+
+.x2-3-2-occ-registro-cronico .list-item-5 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  left: 560px;
+  min-width: 71px;
+  top: 630px;
+}
+
+.x2-3-2-occ-registro-cronico .list-item-6 {
+  align-items: center;
+  border-radius: 8.71px;
+  display: flex;
+  gap: 12px;
+  height: 41px;
+  justify-content: flex-end;
+  padding: 0 11.6px;
+  position: absolute;
+}
+
+.x2-3-2-occ-registro-cronico .title-4 {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: 1.45px;
+  min-height: 15px;
+  text-align: center;
+  white-space: nowrap;
+}
